@@ -1,0 +1,47 @@
+
+Œ
+9
+android*http://schemas.android.com/apk/res/android
+2
+app'http://schemas.android.com/apk/res-autoRelativeLayout"Œ
+*http://schemas.android.com/apk/res/android
+background@color/cardview_dark_background"(Ô„2(
+&§€˜øcolor/cardview_dark_background"a
+*http://schemas.android.com/apk/res/androidlayout_heightmatch_parent"(õ„2:0ÿÿÿÿÿÿÿÿÿ"`
+*http://schemas.android.com/apk/res/androidlayout_widthmatch_parent"(ô„2:0ÿÿÿÿÿÿÿÿÿ*
+
+
+
+    "*°
+§FrameLayout"Y
+*http://schemas.android.com/apk/res/androidid
+@+id/frame"(Ğ„2
+Œ¤øid/frame"x
+*http://schemas.android.com/apk/res/androidlayout_above@id/bottomnavigation"(„ƒ„2
+Õ€¤øid/bottomnavigation"a
+*http://schemas.android.com/apk/res/androidlayout_heightwrap_content"(õ„2:0şÿÿÿÿÿÿÿÿ"`
+*http://schemas.android.com/apk/res/androidlayout_widthwrap_content"(ô„2:0şÿÿÿÿÿÿÿÿ*
+
+
+    !*Ğ
+ÇAcom.google.android.material.bottomnavigation.BottomNavigationView"T
+'http://schemas.android.com/apk/res-autoitemIconTint#DBDCE6"(Ó‚ø2:Pæ¹ïş"Œ
+'http://schemas.android.com/apk/res-autoitemTextColor@android:color/background_light"(ä‚ø2'
+%€˜android:color/background_light"Z
+'http://schemas.android.com/apk/res-automenu
+@menu/menu"(Ôƒø2
+€€´ø	menu/menu"T
+*http://schemas.android.com/apk/res/android
+background#303030"(Ô„2:P°àÀù"o
+*http://schemas.android.com/apk/res/androidid@+id/bottomnavigation"(Ğ„2
+Õ€¤øid/bottomnavigation"X
+*http://schemas.android.com/apk/res/androiditemBackground#303030"(°‚„2:P°àÀù"[
+*http://schemas.android.com/apk/res/androidlayout_alignParentBottomtrue"(ƒ„2:@"a
+*http://schemas.android.com/apk/res/androidlayout_heightwrap_content"(õ„2:0şÿÿÿÿÿÿÿÿ"`
+*http://schemas.android.com/apk/res/androidlayout_widthmatch_parent"(ô„2:0ÿÿÿÿÿÿÿÿÿ*
+
+
+
+
+
+ 

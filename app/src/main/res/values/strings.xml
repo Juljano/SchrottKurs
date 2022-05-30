@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Schrottkurse</string>
+
+    <string-array name="Metalle">
+
+        <item>Aluminium</item>
+        <item>Nickel</item>
+        <item>Messing</item>
+        <item>Kupfer</item>
+
+
+    </string-array>
+
+
+
+    <string-array name="Schrottarten">
+        <item>Zinn</item>
+        <item>Zink</item>
+        <item>Blei</item>
+        <item>Rotguss-stückig</item>
+        <item>Bleibatterien</item>
+        <item>Messing</item>
+        <item>Sonstige Schrottarten</item>
+    </string-array>
+
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

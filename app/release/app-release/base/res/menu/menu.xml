@@ -1,0 +1,39 @@
+
+œ
+
+9
+android*http://schemas.android.com/apk/res/androidmenu*
+
+    A*§
+item"n
+*http://schemas.android.com/apk/res/androidicon@drawable/graphmenu"(‚€„2
+í€ ødrawable/graphmenu"a
+*http://schemas.android.com/apk/res/androidid@+id/Aluminium"(Ğ„2
+€¤øid/Aluminium"C
+*http://schemas.android.com/apk/res/androidtitle	Aluminium(áƒ„*
+    $*
+•item"n
+*http://schemas.android.com/apk/res/androidicon@drawable/graphmenu"(‚€„2
+í€ ødrawable/graphmenu"[
+*http://schemas.android.com/apk/res/androidid@+id/Nickel"(Ğ„2
+‹€¤ø	id/Nickel"@
+*http://schemas.android.com/apk/res/androidtitleNickel(áƒ„*
+    !*¡
+˜item"n
+*http://schemas.android.com/apk/res/androidicon@drawable/graphmenu"(‚€„2
+í€ ødrawable/graphmenu"]
+*http://schemas.android.com/apk/res/androidid@+id/Messing"(Ğ„2
+Š€¤ø
+id/Messing"A
+*http://schemas.android.com/apk/res/androidtitleMessing(áƒ„*
+
+    "*
+•item"n
+*http://schemas.android.com/apk/res/androidicon@drawable/graphmenu"(‚€„2
+í€ ødrawable/graphmenu"[
+*http://schemas.android.com/apk/res/androidid@+id/Kupfer"(Ğ„2
+ˆ€¤ø	id/Kupfer"@
+*http://schemas.android.com/apk/res/androidtitleKupfer(áƒ„*
+
+
+!

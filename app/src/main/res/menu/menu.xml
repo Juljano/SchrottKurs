@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Aluminium"
+        android:icon="@drawable/graphmenu"
+        android:title="Aluminium" />
+    <item
+        android:id="@+id/Nickel"
+        android:icon="@drawable/graphmenu"
+        android:title="Nickel" />
+
+    <item
+        android:id="@+id/Kupfer"
+        android:icon="@drawable/graphmenu"
+        android:title="Kupfer" />
+
+    <item
+        android:id="@+id/sonstige"
+        android:icon="@drawable/graphmenu"
+        android:title="Sonstiges" />
+
+
+</menu>
